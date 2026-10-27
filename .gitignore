@@ -1,0 +1,46 @@
+.beta_private/
+.build_backups/
+__pycache__/
+*.pyc
+.env
+.env.*
+.streamlit/secrets.toml
+*.key
+*.pem
+*.log
+*.db
+*.sqlite*
+*.pdf
+*.docx
+*.zip
+data/
+outputs/
+uploads/
+.ollama/
+
+# CareerPilot private data
+.beta_private/
+.build_backups/
+data/
+outputs/
+uploads/
+
+# Secrets and documents
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.db
+*.sqlite*
+*.pdf
+*.docx
+*.zip
+*.log
+*.pem
+*.key
+
+# Local runtime
+.ollama/
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,7 @@
+streamlit
+requests
+pymupdf
+python-docx
+pillow
+pytesseract
+reportlab
