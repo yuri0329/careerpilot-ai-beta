@@ -263,3 +263,21 @@ GitHub Issues 또는 추후 안내되는
 <p>Made for Better Career Preparation.</p>
 
 </div>
+
+
+---
+
+## 🎬 CareerPilot AI Demo
+
+CareerPilot AI의 이력서 등록, 채용공고 입력,
+AI 맞춤 지원서 및 평가 기능을 소개합니다.
+
+<div align="center">
+
+<img src="assets/careerpilot-github-demo.gif"
+     alt="CareerPilot AI Demo"
+     width="850"/>
+
+</div>
+
+---
